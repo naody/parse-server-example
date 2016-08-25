@@ -9,10 +9,13 @@
   },
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.4",
-    "parse-server": "^2.2.8",
-    "parse-dashboard": "^1.0.11",
-    "parse-server-azure-config": "^1.0.0"
+    "express": "4.14.0",
+    "moment-timezone": "0.5.5",
+    "node-schedule": "1.1.1",
+    "parse-dashboard": "1.0.15",
+    "parse-server": "2.2.16",
+    "parse-server-azure-config": "1.0.0",
+    "md5": "2.1.0"
   },
   "scripts": {
     "start": "node index.js",
